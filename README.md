@@ -22,19 +22,6 @@ First contact with the area in 2018, starting studies with a Web Design course, 
 
 ---
 
-### 📚 My Hard Skills
-- Photoshop
-- HTML
-- CSS
-- JavaScript
-- React
-- Typescript
-- Node.js
-- Express
-- SQL
-
----
-
 ### 👩‍🏫 Some of my academic backgrounds
 - Web Design (COTI - RJ)
 - Programming Logic (Prepara cursos - RJ) 
