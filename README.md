@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">💭 "Learning is the only thing the mind never tires, never afraid and never regrets."</h3>
+<h3 align="center">💭 "Learning is the only thing the mind never exhausts, never fears, and never regrets."</h3>
 <p align="right">- Leonardo da Vinci</p>
 
 <br>
