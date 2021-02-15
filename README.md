@@ -45,3 +45,5 @@ First contact with the area in 2018, starting studies with a Web Design course, 
 ---
 
 <h2 align="center">🙋‍♀ Thank you so much for visiting! 💚</h2>
+
+<br>
