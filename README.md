@@ -13,8 +13,8 @@
 
 ### 👨‍💻️ About me  
 <p>I'm FullStack Web Developer. <br>
-Formed in web development FullStack, by Labenu, a school that in its teaching methodology brings a real experience of the day to day work of a developer.
-First contact with the area in 2018, starting studies with a Web Design course, by COTI - RJ.</p>
+I study computer science and I formed in full-stack web development at Labenu. First contact with the area in 2018, starting studies with web design, by COTI.
+I currently work with front-end development at ClassQuest.</p>
 
 ---
 
@@ -23,11 +23,12 @@ First contact with the area in 2018, starting studies with a Web Design course, 
 ---
 
 ### 👩‍🏫 Some of my academic backgrounds
-- Web Design (COTI - RJ)
-- Programming Logic (Prepara cursos - RJ) 
-- Data structure and algorithms (D. Innovation One - Online)
-- Web FullStack (Labenu - Online)
-- Scrum (D. Innovation One - Online)
+- Computer science (IBMR)
+- Web full-stack (Labenu)
+- Web design (COTI)
+- Programming logic (Prepara cursos) 
+- Data structure and algorithms (D. Innovation One)
+- Scrum (D. Innovation One)
 
 ---
 
