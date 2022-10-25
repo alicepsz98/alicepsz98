@@ -1,20 +1,21 @@
-<h1 align="center">Welcome to my profile! 🖖</h1>
+<h1 align="center">Boas-vindas ao meu perfil! 🖖</h1>
 
 ---
 
 <br>
 
-<h3 align="center">📚 "Learning is the only thing the mind never exhausts, never fears, and never regrets."</h3>
+<h3 align="center">📚 "Aprender é a única coisa que a mente nunca se cansa, nunca teme e nunca se arrepende."</h3>
 <p align="right">- Leonardo da Vinci</p>
 
 <br>
 
 ---
 
-### 👨‍💻️ About me  
-<p>I'm FullStack Web Developer. <br>
-I study computer science and I formed in full-stack web development at Labenu. First contact with the area in 2018, starting studies with web design, by COTI.
-I currently work with front-end development at ClassQuest.</p>
+### 👨‍💻️ Sobre mim  
+<p>Desenvolvedora Full-stack júnior. <br>
+Estudo ciência da computação e sou formada em desenvolvimento web Full-stack pela Labenu. <br>
+Primeiro contato com a área em 2018, iniciando os estudos com web design, pela COTI. <br>
+Atualmente trabalho com desenvolvimento Front-end na ClassQuest.</p>
 
 ---
 
@@ -22,16 +23,15 @@ I currently work with front-end development at ClassQuest.</p>
 
 ---
 
-### 👩‍🏫 Some of my academic backgrounds
-- Computer science (IBMR)
-- Web full-stack (Labenu)
+### 👩‍🏫 Formações acadêmicas
+- Ciência da computação (IBMR)
+- Web Front-end com React (Gama Academy)
+- Web Full-stack com React e Node (Labenu)
 - Web design (COTI)
-- Programming logic (Prepara cursos) 
-- Data structure and algorithms (D. Innovation One)
-- Scrum (D. Innovation One)
+- Lógica de programação com Pascal (Prepara cursos)
 
 ---
 
-<h2 align="center">🙋‍♀ Thank you so much for visiting! 💚</h2>
+<h2 align="center">🙋‍♀💚</h2>
 
 
