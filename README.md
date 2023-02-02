@@ -15,7 +15,7 @@
 <p>Desenvolvedora Web júnior. <br>
 Estudo ciência da computação e sou formada em desenvolvimento web Full-stack pela Labenu. <br>
 Primeiro contato com a área em 2018, iniciando os estudos com web design, pela COTI. <br>
-Atualmente trabalho com desenvolvimento Front-end na ClassQuest.</p>
+Atualmente trabalho com desenvolvimento Front-end na Emitte.</p>
 
 ---
 
